@@ -1,0 +1,3 @@
+﻿  generator.cpp
+C:\Users\salex\source\repos\generator\generator\generator.cpp(97,25): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+  generator.vcxproj -> C:\Users\salex\source\repos\generator\Debug\generator.exe
