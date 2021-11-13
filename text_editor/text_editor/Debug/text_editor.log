@@ -1,0 +1,35 @@
+﻿  main.cpp
+C:\Users\salex\source\repos\text_editor\text_editor\main.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(11,22): warning C4302: приведение типов: усечение из "const char *" к "wchar_t"
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(17,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(21,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(28,20): warning C4302: приведение типов: усечение из "const char *" к "wchar_t"
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(28,77): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(59,47): warning C4302: приведение типов: усечение из "const char *" к "wchar_t"
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(67,66): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(76,50): warning C4302: приведение типов: усечение из "const char *" к "wchar_t"
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(95,46): warning C4302: приведение типов: усечение из "const char *" к "wchar_t"
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(112,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(113,31): warning C4302: приведение типов: усечение из "const char *" к "wchar_t"
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(123,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(126,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(136,44): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(149,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(153,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(164,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(172,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(195,41): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(210,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(286,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(288,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(291,61): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(320,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(326,71): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(350,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(354,75): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(359,25): warning C4101: a: неиспользованная локальная переменная
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(378,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(405,37): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(471,37): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\salex\source\repos\text_editor\text_editor\Back.h(529,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  text_editor.vcxproj -> C:\Users\salex\source\repos\text_editor\Debug\text_editor.exe
