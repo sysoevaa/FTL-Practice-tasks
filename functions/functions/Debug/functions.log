@@ -1,0 +1,41 @@
+﻿  main.cpp
+C:\Users\salex\source\repos\functions\functions\main.cpp(66,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\salex\source\repos\functions\functions\main.cpp(66,97): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\salex\source\repos\functions\functions\main.cpp(67,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\salex\source\repos\functions\functions\main.cpp(67,86): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\salex\source\repos\functions\functions\main.cpp(69,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(69,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(70,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(70,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(70,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(71,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(71,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(82,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(82,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(83,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(83,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(96,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(96,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(102,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(102,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(108,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(108,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(114,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\salex\source\repos\functions\functions\main.cpp(114,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  functions.vcxproj -> C:\Users\salex\source\repos\functions\Debug\functions.exe
